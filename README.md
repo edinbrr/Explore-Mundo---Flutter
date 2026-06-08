@@ -263,6 +263,8 @@ Durante o desenvolvimento foram aplicados os seguintes conceitos estudados na di
 
 ## 👨‍💻 Autor
 
+Edson Victor Miranda de Oliveira
+
 Projeto desenvolvido para fins acadêmicos na disciplina de Desenvolvimento Mobile com Flutter.
 
 ---
